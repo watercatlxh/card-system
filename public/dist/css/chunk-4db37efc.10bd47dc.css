@@ -1,1 +1,4 @@
-.el-form-item-title-btn[data-v-6e61ef4e]{display:inline-block;margin-left:4px}
+.el-form-item-title-btn[data-v-6e61ef4e] {
+    display: inline-block;
+    margin-left: 4px
+}
