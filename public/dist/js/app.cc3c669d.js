@@ -2875,7 +2875,6 @@
                         isMobile: c.isMobile(),
                         topNav: "",
                         bottomNav: "",
-                        cp_link: "https://github.com/watercatlxh/card-system",
                         cp_company: Q
                     }
                 },
