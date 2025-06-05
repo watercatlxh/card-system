@@ -2867,17 +2867,6 @@
                     RecordView: L,
                     ReportView: P
                 },
-                data: function() {
-                    return {
-                        config: window.config,
-                        PROJECT: "shop_free",
-                        opacity: !1,
-                        isMobile: c.isMobile(),
-                        topNav: "",
-                        bottomNav: "",
-                        cp_company: Q
-                    }
-                },
                 created: function() {
                     var t = this,
                         e = [];
