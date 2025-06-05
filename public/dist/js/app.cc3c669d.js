@@ -2875,7 +2875,7 @@
                         isMobile: c.isMobile(),
                         topNav: "",
                         bottomNav: "",
-                        cp_link: "https://github.com/Tai7sy/card-system",
+                        cp_link: "https://github.com/watercatlxh/card-system",
                         cp_company: Q
                     }
                 },
@@ -3687,6 +3687,8 @@
     dfa1: function(t, e, n) {},
     e197: function(t, e, n) {},
     e74f: function(t, e, n) {},
+    ed22: function(module, exports) {
+        ! function copyright() {}()},
     ed6d: function(t, e, n) {},
     f7ef: function(t, e, n) {
         n("c975"), n("ac1f"), n("5319");
